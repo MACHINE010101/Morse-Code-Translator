@@ -1,0 +1,17 @@
+E:\C# Random\Translator Morse Code\Translator Morse Code\bin\Debug\net6.0-windows\Translator Morse Code.exe
+E:\C# Random\Translator Morse Code\Translator Morse Code\bin\Debug\net6.0-windows\Translator Morse Code.deps.json
+E:\C# Random\Translator Morse Code\Translator Morse Code\bin\Debug\net6.0-windows\Translator Morse Code.runtimeconfig.json
+E:\C# Random\Translator Morse Code\Translator Morse Code\bin\Debug\net6.0-windows\Translator Morse Code.dll
+E:\C# Random\Translator Morse Code\Translator Morse Code\bin\Debug\net6.0-windows\Translator Morse Code.pdb
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.csproj.AssemblyReference.cache
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator_Morse_Code.HomeForm.resources
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.csproj.GenerateResource.cache
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.AssemblyInfoInputs.cache
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.AssemblyInfo.cs
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.csproj.CoreCompileInputs.cache
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.dll
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\refint\Translator Morse Code.dll
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.pdb
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\Translator Morse Code.genruntimeconfig.cache
+E:\C# Random\Translator Morse Code\Translator Morse Code\obj\Debug\net6.0-windows\ref\Translator Morse Code.dll
